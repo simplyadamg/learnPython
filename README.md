@@ -1,5 +1,5 @@
 # learnPython
-Learning Python!
+Learning Python! Hooray!
 
 # git --commit
 # git add -all
