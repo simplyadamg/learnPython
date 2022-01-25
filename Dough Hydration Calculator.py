@@ -1,5 +1,5 @@
 def hydrartionCalc():
-    print('This isnt lesosn 9 just a hydration calcuator')
+    print('This a dough hydration calcuator')
     print('Quantity flour in starter:')
     starterF = input()
     print('Quantity water in starter:')
