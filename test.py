@@ -4,3 +4,5 @@ word=input()
 for i in range(random(1,5)):
     print (i)
     print (word)
+
+# more test
